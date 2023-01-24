@@ -4,6 +4,7 @@
 
 using namespace std;
 
+#Below example with Sierpinski numbers
 void compute_kronecker_symbol_table() {
     vector<int> kronecker_input = { 78557,271129,271577,322523,327739,482719,575041,
  603713,903983,934909,965431,1259779,1290677,
