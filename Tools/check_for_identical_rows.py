@@ -5,9 +5,6 @@ with open('some_csv_of_kronekervalues_from_/data', 'r') as csvfile:
     # Create a CSV reader object
     reader = csv.reader(csvfile)
 
-    # Skip the first row
-    next(reader)
-
     # Initialize a list to store the rows
     rows = []
 
