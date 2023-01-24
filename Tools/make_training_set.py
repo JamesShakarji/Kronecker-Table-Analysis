@@ -1,7 +1,7 @@
 import csv
 
 # Open the input CSV file
-with open('some_csv_from_/data', 'r') as csvfile:
+with open('some_csv_of_kronekervalues_from_/data', 'r') as csvfile:
     # Create a CSV reader object
     reader = csv.reader(csvfile)
 
